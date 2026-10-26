@@ -100,4 +100,4 @@ I Booted the VM and ran the Windows Server installer, Signed in for the first ti
 - **Decision:** Keep Server Core. It uses less RAM (useful on an 8 GB host), reflects how many production servers run, and AD setup is done through a few PowerShell commands. AD will be managed visually later from the Windows client VM using its admin tools.
 - **Lesson:** Read the edition names carefully before clicking Next.
 
-# Build-a-Windows-AD-Home-Lab
+
